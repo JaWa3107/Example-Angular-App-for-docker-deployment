@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'example-for-docker-deployment';
+  title = 'NO-LUCK-ALL-HUSTLE';
 }
